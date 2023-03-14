@@ -1,6 +1,6 @@
 # Web Scrapping Trials
 In this repository, we are trying to test the functions of different major web-scrapping tools, 
-including BeautifulSoup, Selenium, and Scrappy. 
+including BeautifulSoup and Selenium. 
 
 Since the html structure of websites may change, I will also include some output result in each folder.
 ## part 1 BeautifulSoup
