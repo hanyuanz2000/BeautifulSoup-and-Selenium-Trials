@@ -1,4 +1,4 @@
-# Web scrapping Trials
+# Web Scrapping Trials
 In this repository, we are trying to test the functions of different major web-scrapping tools, 
 including BeautifulSoup, Selenium, and Scrappy. 
 
@@ -20,4 +20,4 @@ We implement the function to select dropdown and scrap information from tables.
 In this part, we conduct experiments to further test how Selenium works with Xpath. 
 Our target website is https://www.audible.com/search.
 We are trying to gather the information of name, author, book length for each audible book.
-We include headless mode of Selenium and implement pagination function in this part.
+We include headless mode of Selenium, pagination function, and explicit wait in this part.
