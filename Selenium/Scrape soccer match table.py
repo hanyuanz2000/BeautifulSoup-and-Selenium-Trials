@@ -2,6 +2,7 @@ from selenium import webdriver
 import pandas as pd
 
 website = 'https://www.adamchoi.co.uk/overs/detailed'
+# path of my chrome driver
 path = '/Applications/chromedriver_mac_arm64/chromedriver'
 driver = webdriver.Chrome(path)
 driver.get(website)
