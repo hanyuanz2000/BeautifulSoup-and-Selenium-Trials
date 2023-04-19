@@ -1,4 +1,4 @@
-# Web Scrapping Trials
+# SoupAndSeleniumScrapers
 This repository serves as a testing ground for major web-scraping tools such as BeautifulSoup and Selenium, demonstrating their capabilities and versatility across a variety of use cases.
 ## part 1 BeautifulSoup
 In this part, we conduct experiments to test how BeautifulSoup works. Our target website is https://subslikescript.com. 
